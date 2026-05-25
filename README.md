@@ -15,24 +15,35 @@
 
 ### 💻 Technical Arsenal 
 
-**Languages & Core Tech:**
+**Languages & OS:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,ubuntu,bash,aws,windows,mysql,nessus,burpsuite,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,linux,ubuntu,bash,windows,mysql,git,github,vscode&theme=dark" />
   </a>
 </p>
 
-**Cybersecurity & Networking:**
+**Cybersecurity & Forensics:**
 <p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort_IDPS-EF3B2D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
----
-
+**Cloud & DevSecOps:**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadpool123457&layout=compact&theme=radical&hide_border=true" height="165px"/>
