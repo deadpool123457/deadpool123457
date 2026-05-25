@@ -1,10 +1,34 @@
 # 👨‍💻 Hello, I'm A. Priya Ranjith 
 
-### 💻 Technical Skills:
+<p align="left">
+  <b>Cybersecurity Analyst | Ethical Hacker | Digital Forensics Investigator</b> [cite: 2]<br>
+  Motivated B.Tech Cybersecurity student at SRM University, certified in CEH and CHFI. I have hands-on expertise in ethical hacking, digital forensics, and network security , with a focus on designing ML-powered security systems[cite: 10].
+</p>
+
+### 🔭 Current Focus
+- 🛡️ **Building:** DeepGuard - An Intelligent Intrusion Detection & Prevention System using Random Forest.
+- 🔍 **Developing:** A DFIR Chain-of-Custody Management System with SHA-256 hash verification[cite: 28, 30].
+- 🌱 **Learning:** Preparing for CCNA and AWS Cloud Practitioner certifications[cite: 43].
+- 📫 **Contact:** mr.ranjith0001@gmail.com [cite: 3] | [LinkedIn](Insert_Your_LinkedIn_URL_Here) [cite: 5]
+
+---
+
+### 💻 Technical Arsenal 
+
+**Languages & Core Tech:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,mysql,vscode,powershell,windows,c,cpp,regex&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,linux,ubuntu,bash,aws,windows,mysql,c,cpp,git,github,vscode&theme=dark" />
   </a>
+</p>
+
+**Cybersecurity & Networking:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ---
