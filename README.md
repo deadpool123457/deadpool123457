@@ -1,4 +1,4 @@
-# 👨‍💻 Hello, I'm A. Priya Ranjith 
+# 👨‍💻 Hello.., I'm Arepalli Priya Ranjith 
 
 <p align="left">
   <b>Cybersecurity Analyst | Ethical Hacker | Digital Forensics Investigator</b> [cite: 2]<br>
@@ -18,7 +18,7 @@
 **Languages & Core Tech:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,ubuntu,bash,aws,windows,mysql,c,cpp,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,linux,ubuntu,bash,aws,windows,mysql,nessus,burpsuite,git,github,vscode&theme=dark" />
   </a>
 </p>
 
